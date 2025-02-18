@@ -14,7 +14,7 @@ Tired of searching for that component that is always out of stock? This Telegram
 1. **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/hmonra/Seguimiento-Articulos.git](https://github.com/hmonra/Seguimiento-Articulos.git)
+    git clone https://github.com/hmonra/Seguimiento-Articulos.git
     ```
 
 2. **Virtual Environment (Recommended):**
