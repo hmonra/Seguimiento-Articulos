@@ -1,0 +1,2 @@
+telegram_token = "TOKENBOT" # SUSTITUIR POR TOKEN DEL BOT
+id_canal = "CHAT_ID" # SUSTITUIR POR ID DEL CHAT
