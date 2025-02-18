@@ -14,7 +14,7 @@
 1.  **Clona el repositorio:**
 
     ```bash
-    git clone [https://github.com/hmonra/Seguimiento-Articulos.git](https://github.com/hmonra/Seguimiento-Articulos.git)
+    git clone https://github.com/hmonra/Seguimiento-Articulos.git
     ```
 
 2.  **Entorno Virtual (Recomendado):**
